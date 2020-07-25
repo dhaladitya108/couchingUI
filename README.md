@@ -1,6 +1,6 @@
-# ui_design1
+# Couching UI
 
-A new Flutter project.
+![screenshot](https://i.ibb.co/Wz5MVs3/Screenshot-1595656053.png)
 
 ## Getting Started
 
